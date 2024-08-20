@@ -56,9 +56,17 @@ public class TestJiOu {
         });
         t2.setName("偶数");
 
+        //冒泡排序算法
+
+
+
         t1.start();
         t2.start();
     }
+
+
+    //冒泡排序算fa
+    
 
 
 }
